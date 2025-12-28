@@ -1,6 +1,5 @@
-# 💫 About Me
-
-💫 Hi, I'm **Swikriti Sanjel**  
+# 💫  Hi 👋, I'm **Swikriti Sanjel** 
+ 
 🎓 Bachelor’s Student | 🌐 React Frontend Developer | 🧪 QA Enthusiast  
 📍 Nepal 🇳🇵  
 
