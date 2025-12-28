@@ -47,8 +47,9 @@ I am a Computer Science student passionate about building responsive, user-frien
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=swikriti0416&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=swikriti0416&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=swikriti0416&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=swikriti0416&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swikriti0416&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
