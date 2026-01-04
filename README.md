@@ -8,6 +8,7 @@
 ## 🚀 About Me
 I am a Computer Science student passionate about building responsive, user-friendly web applications using React and ensuring software quality through strong QA practices. I enjoy working on real-world projects, testing applications, finding bugs, and continuously improving both UI and functionality.
 
+
 ---
 
 ## 🌐 Socials
